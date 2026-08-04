@@ -28,23 +28,65 @@
 
 </div>
 
-<!-- ═══════════════════════ 4 · TECH STACK (compact 4-column) ═══════════════════════ -->
+<!-- ═══════════════════════ 4 · TECH STACK (borderless 4-column) ═══════════════════════ -->
 <div align="center">
 
 ## 🛠️ Tech Stack
 
-<table>
-<tr>
-<td align="center"><b>Languages</b></td>
-<td align="center"><b>AI / ML</b></td>
-<td align="center"><b>Web &amp; Data</b></td>
-<td align="center"><b>Tools</b></td>
+<table border="0" cellspacing="0" cellpadding="14" role="presentation">
+<tr border="0">
+<td align="center" valign="top" border="0"><b>Languages</b></td>
+<td align="center" valign="top" border="0"><b>AI / ML</b></td>
+<td align="center" valign="top" border="0"><b>Web &amp; Data</b></td>
+<td align="center" valign="top" border="0"><b>Tools</b></td>
 </tr>
-<tr>
-<td align="center"><a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" width="40" height="40" alt="Python"/></a> <a href="https://cplusplus.com/" target="_blank"><img src="https://skillicons.dev/icons?i=cpp" width="40" height="40" alt="C++"/></a><br/><a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs" width="40" height="40" alt="C#"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript"/></a><br/><a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript"/></a> <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java"/></a></td>
-<td align="center"><a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch"/></a> <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow"/></a><br/><a href="https://scikit-learn.org/" target="_blank"><img src="https://skillicons.dev/icons?i=sklearn" width="40" height="40" alt="scikit-learn"/></a> <a href="https://opencv.org/" target="_blank"><img src="https://skillicons.dev/icons?i=opencv" width="40" height="40" alt="OpenCV"/></a></td>
-<td align="center"><a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React"/></a> <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js"/></a><br/><a href="https://tailwindcss.com/" target="_blank"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind"/></a> <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase"/></a><br/><a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" width="40" height="40" alt="MySQL"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML5"/></a><br/><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS3"/></a></td>
-<td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git"/></a> <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub"/></a><br/><a href="https://code.visualstudio.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code"/></a> <a href="https://www.figma.com/" target="_blank"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma"/></a><br/><a href="https://ubuntu.com/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" width="40" height="40" alt="Linux"/></a></td>
+<tr border="0">
+<td align="center" valign="top" border="0">
+
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="48" alt="Python"/></a>
+<a href="https://cplusplus.com/"><img src="https://skillicons.dev/icons?i=cpp" width="48" alt="C++"/></a>
+<br/>
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs" width="48" alt="C#"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" width="48" alt="JavaScript"/></a>
+<br/>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts" width="48" alt="TypeScript"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="48" alt="Java"/></a>
+
+</td>
+<td align="center" valign="top" border="0">
+
+<a href="https://pytorch.org/"><img src="https://skillicons.dev/icons?i=pytorch" width="48" alt="PyTorch"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" alt="TensorFlow"/></a>
+<br/>
+<a href="https://scikit-learn.org/"><img src="https://skillicons.dev/icons?i=sklearn" width="48" alt="scikit-learn"/></a>
+<a href="https://opencv.org/"><img src="https://skillicons.dev/icons?i=opencv" width="48" alt="OpenCV"/></a>
+
+</td>
+<td align="center" valign="top" border="0">
+
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="48" alt="React"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" width="48" alt="Node.js"/></a>
+<br/>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind" width="48" alt="Tailwind"/></a>
+<a href="https://supabase.com/"><img src="https://skillicons.dev/icons?i=supabase" width="48" alt="Supabase"/></a>
+<br/>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="48" alt="MySQL"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" width="48" alt="HTML5"/></a>
+<br/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" width="48" alt="CSS3"/></a>
+
+</td>
+<td align="center" valign="top" border="0">
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="48" alt="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/></a>
+<br/>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" width="48" alt="VS Code"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="48" alt="Figma"/></a>
+<br/>
+<a href="https://ubuntu.com/"><img src="https://skillicons.dev/icons?i=linux" width="48" alt="Linux"/></a>
+
+</td>
 </tr>
 </table>
 
