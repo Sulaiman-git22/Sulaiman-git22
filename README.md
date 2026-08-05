@@ -1,3 +1,9 @@
+<div align="center">
+
+<img width="100%" src="./divider-top.svg" alt=""/>
+
+</div>
+
 <!-- ═══════════════════════ 1 · MATRIX HEADER (custom SVG) ═══════════════════════ -->
 <!-- PLACEHOLDER: replace ./matrix-header.svg with the final custom animated header -->
 <div align="center">
@@ -19,7 +25,7 @@
 
 <!-- ═══════════════════════ 3 · ABOUT ME (terminal) ═══════════════════════ -->
 <!-- ═══════════════════════ 3 · ABOUT ME (custom animated SVG — placeholder) ═══════════════════════ -->
-<!-- PLACEHOLDER: replace ./about-terminal.svg with the animated terminal SVG we'll build next -->
+<!-- About Me: animated terminal SVG (types itself, loops) -->
 <div align="center">
 
 ## 🧠 About Me
@@ -107,5 +113,11 @@
 ```bash
 sulaiman@ai-engineer:~$ echo "Let's build something intelligent."
 ```
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="./divider-bottom.svg" alt=""/>
 
 </div>
